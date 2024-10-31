@@ -1,2 +1,4 @@
 streamlit
 dsrag
+chromadb
+pysqlite3-binary
